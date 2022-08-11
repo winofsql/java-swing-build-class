@@ -26,3 +26,10 @@ public class MyClass {
 
 }
 ```
+
+```java
+        myClass = new MyClass();
+        myClass.setTitle("処理開始");
+        String title = myClass.getTitle();
+        System.out.println(title);
+```
