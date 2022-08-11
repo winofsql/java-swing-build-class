@@ -7,3 +7,22 @@
 ![image](https://user-images.githubusercontent.com/1501327/184103061-360b11d2-d6f6-4b7c-b11d-66ee6720e435.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/184103234-565d2c20-4c74-4e13-a3f0-1ea65fcb3857.png)
+
+```java
+public class MyClass {
+
+    private String title;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public MyClass() {
+    }
+
+}
+```
