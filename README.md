@@ -69,3 +69,26 @@ public class MyClass {
     }
 }
 ```
+
+## launch.json の変更
+```json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch WinMain",
+            "request": "launch",
+            "mainClass": "WinMain",
+            "console": "internalConsole",
+            "projectName": "java-swing-build-class_dbd10125"
+        }
+    ]
+}
+```
