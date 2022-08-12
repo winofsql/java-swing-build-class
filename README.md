@@ -81,15 +81,8 @@ public class MyClass {
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch WinMain",
-            "request": "launch",
-            "mainClass": "WinMain",
+            "mainClass": "${file}",
             "console": "internalConsole",
-            "projectName": "java-swing-build-class_dbd10125"
         }
     ]
 }
