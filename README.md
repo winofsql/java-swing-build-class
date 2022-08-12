@@ -95,4 +95,4 @@ public class MyClass {
 }
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/184264165-cc4fb110-72c5-43b4-8618-1d4716178e99.png)
+![image](https://user-images.githubusercontent.com/1501327/184264322-f8c33b79-b169-47fc-8286-67033b88589c.png)
