@@ -34,6 +34,7 @@ public class MyClass {
         System.out.println(title);
 ```
 
+## クラスメソッドの作成
 ![image](https://user-images.githubusercontent.com/1501327/184263087-b3582ad6-2ab1-4c3b-aa95-8df57e87baab.png)
 
 ```java
@@ -60,6 +61,9 @@ public class MyClass {
     public MyClass() {
     }
 
+    // ********************************
+    // クラスメソッド
+    // ********************************
     public static void print(String value) {
         System.out.println(value);
     }
