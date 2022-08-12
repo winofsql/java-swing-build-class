@@ -71,7 +71,7 @@ public class MyClass {
 ```
 
 ## launch.json の変更
-![image](https://user-images.githubusercontent.com/1501327/184263883-d3ebbc67-7835-484a-8139-6a6292b15a1c.png)
+![image](https://user-images.githubusercontent.com/1501327/184264884-46a1ef6e-fa4d-45c5-9d41-cff8089de3c4.png)
 
 ```json
 {
