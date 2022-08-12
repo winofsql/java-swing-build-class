@@ -36,3 +36,32 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/1501327/184263087-b3582ad6-2ab1-4c3b-aa95-8df57e87baab.png)
 
+```java
+        myClass = new MyClass();
+        myClass.setTitle("処理開始");
+        String title = myClass.getTitle();
+        // System.out.println(title);
+        MyClass.print(title);
+```
+
+```java
+public class MyClass {
+
+    private String title;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public MyClass() {
+    }
+
+    public static void print(String value) {
+        System.out.println(value);
+    }
+}
+```
