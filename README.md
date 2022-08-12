@@ -62,7 +62,7 @@ public class MyClass {
     }
 
     // ********************************
-    // クラスメソッド
+    // ★ クラスメソッド ★
     // ********************************
     public static void print(String value) {
         System.out.println(value);
