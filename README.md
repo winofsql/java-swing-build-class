@@ -35,8 +35,6 @@ public class MyClass {
 ```
 
 ## クラスメソッドの作成
-![image](https://user-images.githubusercontent.com/1501327/184263087-b3582ad6-2ab1-4c3b-aa95-8df57e87baab.png)
-
 ```java
         myClass = new MyClass();
         myClass.setTitle("処理開始");
@@ -44,6 +42,8 @@ public class MyClass {
         // System.out.println(title);
         MyClass.print(title);
 ```
+
+![image](https://user-images.githubusercontent.com/1501327/184263087-b3582ad6-2ab1-4c3b-aa95-8df57e87baab.png)
 
 ```java
 public class MyClass {
